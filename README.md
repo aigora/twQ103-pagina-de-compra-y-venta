@@ -4,9 +4,9 @@ Vamos a realizar una página en la que te aparezcan varias opciones de acceso y 
 
 ## Integrantes del equipo
 
-Adrián Triner Antón 54240
-Alberto Hernández Velayos 54010
-Guillermo Moreno Domenech 54114
+Adrián Triner Antón 
+Alberto Hernández Velayos 
+Guillermo Moreno Domenech 
 
 ## Objetivos del trabajo
 
