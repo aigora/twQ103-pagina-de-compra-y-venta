@@ -8,6 +8,7 @@ Adrián Triner Antón
 Alberto Hernández Velayos
 Guillermo Moreno Domenech
 
+
 ## Objetivos del trabajo
 
 Aprender a usar ficheros (como crear un registro de un comprador o vendedor),utilizando varias funciones en un mismo programa, afianzar conceptos como estructuras y vectores y practicar toda la materia vista en clase de cara al segundo examen parcial.
