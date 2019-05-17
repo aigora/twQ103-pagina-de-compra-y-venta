@@ -3,10 +3,7 @@
 Vamos a realizar una página en la que te aparezcan varias opciones de acceso y de ahí accedas a menú de compra o venta de productos. Hay opción de registrarse en la página. Dentro de cada opción podrás realizar diferentes acciones como filtrar características de tu compra o venta.
 
 ## Integrantes del equipo
-
-Adrián Triner Antón 
-Alberto Hernández Velayos 
-Guillermo Moreno Domenech 
+ 
 
 ## Objetivos del trabajo
 
