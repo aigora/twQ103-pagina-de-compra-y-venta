@@ -4,9 +4,9 @@ Vamos a realizar una página en la que te aparezcan varias opciones de acceso y 
 
 ## Integrantes del equipo
  
-Adrián Triner Antón (atriner)                                                                                           
-Alberto Hernández Velayos (albertohernandezvelayos)                                                                        
-Guillermo Moreno Domenech (gmorenod)
+- Adrián Triner Antón (atriner)                                                                                           
+- Alberto Hernández Velayos (albertohernandezvelayos)                                                                        
+- Guillermo Moreno Domenech (gmorenod)
 
 
 ## Objetivos del trabajo
