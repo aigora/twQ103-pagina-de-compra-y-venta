@@ -11,5 +11,5 @@ Vamos a realizar una página en la que te aparezcan varias opciones de acceso y 
 
 ## Objetivos del trabajo
 
-Aprender a usar ficheros (como crear un registro de un comprador o vendedor),utilizando varias funciones en un mismo programa, afianzar conceptos como estructuras y vectores y practicar toda la materia vista en clase de cara al segundo examen parcial.
+Aprender a usar ficheros (como crear un registro de un comprador o vendedor),utilizando varias funciones en un mismo programa, afianzar conceptos como estructuras y vectores y practicar toda la materia vista en clase de cara al segundo examen parcial.                       
 En el trabajo se accede a una página de compra y venta de articulos a traves de un menú principal en el cual te da primeramente la opción de registrarte para acceder a la página, y en el caso de ya estar registrado, acceder directamente al menú en el que ya eliges la acción que deseas realizar (comprar o vender productos) o salir de la página
