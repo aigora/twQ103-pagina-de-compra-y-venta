@@ -1,0 +1,11 @@
+Camiseta Ropa Nike 29.99
+Zapatillas Ropa Adidas 119.90
+Scooter	Motos Yamaha 850.00
+Motocross Motos Kawasaki 3000.00
+Furgoneta Coches Peugeot 5499.00
+Descapotable Coches Audi 45000.00
+Sofa Inmobiliario Ikea 679.90
+Estanteria Inmobiliario	Ikea 149.90
+FIFA19 Videojuegos EASports 69.99
+Tetris Videojuegos SEGA	14.99
+
