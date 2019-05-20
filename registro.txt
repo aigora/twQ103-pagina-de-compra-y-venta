@@ -1,0 +1,4 @@
+adrian	triner	1000.00
+guillermo moreno 1500.00
+alberto	hernandez 500.00
+
